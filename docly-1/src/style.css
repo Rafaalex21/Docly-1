@@ -1,0 +1,60 @@
+.logo {
+  position: absolute;
+  width: 145px;
+  height: 55px;
+  left: 124px;
+  top: 116px;
+}
+.email {
+  position: absolute;
+  width: 320px;
+  height: 50px;
+  left: 37px;
+  top: 338px;
+  align: center;
+
+  background: #d9d9d9;
+  opacity: 0.2;
+}
+.senha {
+  position: absolute;
+  width: 320px;
+  height: 50px;
+  left: 37px;
+  top: 419px;
+  align: center;
+
+  background: #d9d9d9;
+  opacity: 0.2;
+}
+.wrapper button {
+  position: absolute;
+  width: 320px;
+  height: 64px;
+  left: 37px;
+  top: 500px;
+
+  background: #84e988;
+}
+
+.imagem {
+  position: absolute;
+  width: 61px;
+  height: 30px;
+  left: 166px;
+  top: 595px;
+}
+.imagem2 {
+  position: absolute;
+  width: 61px;
+  height: 30px;
+  left: 230px;
+  top: 595px;
+}
+.imagem3 {
+  position: absolute;
+  width: 61px;
+  height: 30px;
+  left: 100px;
+  top: 595px;
+}
